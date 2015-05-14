@@ -12,11 +12,11 @@
           <AssociatedConnUserName />
           <FullPath>Detailed.sql</FullPath>
         </FileNode>
-        <FileNode Name="Summery.sql">
+        <FileNode Name="Summary.sql">
           <AssociatedConnectionMoniker />
           <AssociatedConnSrvName />
           <AssociatedConnUserName />
-          <FullPath>Summery.sql</FullPath>
+          <FullPath>Summary.sql</FullPath>
         </FileNode>
       </Items>
     </LogicalFolder>
