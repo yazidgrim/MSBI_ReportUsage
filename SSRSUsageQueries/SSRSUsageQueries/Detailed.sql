@@ -1,5 +1,4 @@
-USE SSRSUsageQueries;
-GO
+
 	
 SELECT 
 		e.UserName
